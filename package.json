@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeoni8/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeoni8/node/issues"
+  },
+  "homepage": "https://github.com/yeoni8/node#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "tonegenerator": "0.0.2",
+    "waveheader": "0.0.2"
+  }
+}
